@@ -13,7 +13,7 @@ class Complex//클래스 Complex를 생성한다.
 
 }
 
-public class ComplexCalc 
+public class ComplexDef 
 {
 
 	public static void main(String[] args) 
